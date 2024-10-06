@@ -1,0 +1,6 @@
+[submodule "ui-assistant"]
+	path = ui-assistant
+	url = https://github.com/AssistantIDGS/ui-assistant.git
+[submodule "middelware_assistant"]
+	path = middelware_assistant
+	url = https://github.com/AssistantIDGS/middelware_assistant.git
